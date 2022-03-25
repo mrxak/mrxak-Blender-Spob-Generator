@@ -15,3 +15,6 @@ To change where the shadow falls on your spob, rotate the Sun on the X axis. By 
 To change the tilt of the spob's axis, rotate the Camera on the Y axis. By default it is set to -45 degrees.
 
 To change the rotation of the spob on its axis, change what frame you're looking at in the viewport, or what frame(s) you render. Frames 1-95 are meant for a planet with no ring. Frames 96-190 are for a planet with a ring, as the camera is moved back. If the spob you're rendering has a 24 hour day, each frame represents 15 minutes of time.
+
+## Tutorial Videos
+You can find tutorials on using the .blend file in [this YouTube Playlist](https://www.youtube.com/playlist?list=PL9hpqkEu_NGwUlD44fzNJs9FBwmdky8ce).
